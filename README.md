@@ -24,3 +24,9 @@ instalar PyDirectInput
 ```
 pip install pydirectinput
 ```
+
+Una vez que todas las dependencias estan instaladas, se puede correr
+```
+python accepter.py
+```
+desde linea de comando y el programa deberia funcionar.
