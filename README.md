@@ -7,12 +7,12 @@ Puede funcionar mal en ciertas computadoras debido al cambio en el tamaño del c
 
 instalar OpenCV
 ```
-pip insall opencv-python
+pip install opencv-python
 ```
 
 instalar NumPy
 ```
-pip insall numpy
+pip install numpy
 ```
 
 instalar MSS
